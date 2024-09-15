@@ -162,8 +162,8 @@
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.Количество" id="675bce87-75d0-4349-8ee1-2f5413f1a8d0"/>
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.Сумма" id="d7892c59-cb53-41cc-a074-8ac7a68874f3"/>
 		</Metadata>
-		<Metadata name="Document.ПриходнаяНакладная.Form.ФормаДокумента" id="1959cc9b-cfb5-4d85-aec4-891f09d99c64" configVersion="6a26228e7462fa42ad56b10fbc9e85b800000000"/>
-		<Metadata name="Document.ПриходнаяНакладная.Form.ФормаДокумента.Form" id="1959cc9b-cfb5-4d85-aec4-891f09d99c64.0" configVersion="be9c3dd70a64e94494076f2342e0366a00000000"/>
+		<Metadata name="Document.ПриходнаяНакладная.Form.ФормаДокумента" id="1959cc9b-cfb5-4d85-aec4-891f09d99c64" configVersion="1b759959e5a22247bc1f9feff135060f00000000"/>
+		<Metadata name="Document.ПриходнаяНакладная.Form.ФормаДокумента.Form" id="1959cc9b-cfb5-4d85-aec4-891f09d99c64.0" configVersion="ecfe096f775ac1478002e7e29505acd300000000"/>
 		<Metadata name="Document.ПриходнаяНакладная.ObjectModule" id="175cf957-1c89-437e-9199-36da6ca20619.0" configVersion="fe9d189d47940249b8869be6cbede88800000000"/>
 		<Metadata name="Document.РасходнаяНакладная" id="b47e0747-d6c8-4ee8-bb39-df98a7a38912" configVersion="3d432a596a06074a8379638709fd320400000000">
 			<Metadata name="Document.РасходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.Количество" id="05b3711e-22c8-4ac2-a22f-2803fb404d2d"/>
